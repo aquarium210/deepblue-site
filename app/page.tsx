@@ -1,3 +1,13 @@
+
+<section className="bg-gradient-to-r from-blue-200 to-blue-400 py-20 px-6 text-center rounded-2xl shadow-md mb-12">
+  <h1 className="text-5xl font-bold text-blue-900 mb-4">From Counting to Calculus</h1>
+  <p className="text-lg text-blue-800 mb-6">Building deep mathematical foundations for the next generation of thinkers</p>
+  <div className="w-full h-64 bg-gradient-to-br from-blue-300 to-blue-600 rounded-xl flex items-center justify-center text-white text-xl font-semibold">
+    Hero Image Placeholder
+  </div>
+</section>
+
+
 export default function HomePage() {
   return (
     <main className="px-4 py-10 max-w-6xl mx-auto space-y-10">
@@ -8,49 +18,7 @@ export default function HomePage() {
       </section>
 
       
-<section className="space-y-6">
-  <h2 className="text-2xl font-semibold text-gray-800">What Families Say</h2>
 
-  <div className="space-y-4">
-    <blockquote className="italic text-gray-700">
-      "Testimonial coming soon"
-    </blockquote>
-    <p className="text-sm text-gray-500">– Brian Lung, SAS Class of 2020, Northwestern Class of 2024</p>
-
-    <blockquote className="italic text-gray-700">
-      "Testimonial coming soon"
-    </blockquote>
-    <p className="text-sm text-gray-500">– William Sun, ISB Class of 2020, Columbia Class of 2024, MIT PhD Candidate</p>
-
-    <blockquote className="italic text-gray-700">
-      "Testimonial coming soon"
-    </blockquote>
-    <p className="text-sm text-gray-500">– Alex Tang, SAS Class of 2024, Dartmouth Class of 2028</p>
-  </div>
-
-  
-  <blockquote className="italic text-gray-700">
-    "Testimonial coming soon"
-  </blockquote>
-  <p className="text-sm text-gray-500">– Harry, ISB Class of 2020, Columbia Class of 2024</p>
-
-  <blockquote className="italic text-gray-700">
-    "Testimonial coming soon"
-  </blockquote>
-  <p className="text-sm text-gray-500">– Alan, ISB Class of 2020, Columbia Class of 2024</p>
-
-  <blockquote className="italic text-gray-700">
-    "Testimonial coming soon"
-  </blockquote>
-  <p className="text-sm text-gray-500">– Diana, Indian Hill Class of 2021, Harvard Class of 2025</p>
-
-  <blockquote className="italic text-gray-700">
-    "Testimonial coming soon"
-  </blockquote>
-  <p className="text-sm text-gray-500">– Emory, ISB Class of 2021, Columbia Class of 2025</p>
-
-  <a href="/testimonials" className="text-blue-600 hover:underline">Read more</a>
-</section>
 
 
       <section className="space-y-6">
