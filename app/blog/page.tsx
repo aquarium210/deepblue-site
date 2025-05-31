@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 
 const mockPosts = Array.from({ length: 20 }).map((_, i) => ({
   title: `Sample Blog Post #${i + 1}`,
-  description: "Insights and strategies from Deepblue Studio on competition math, placement, and more.",
+  description: "Insights and strategies from Deepblue Studio on high school math pathways, standardized tests, competitions, and more.",
   date: `2024-0${(i % 9) + 1}-15`,
 }));
 

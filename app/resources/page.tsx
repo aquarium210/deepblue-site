@@ -41,7 +41,7 @@ export default function ResourcesPage() {
           🎓 Road to University Panels
         </a>
         <p className="text-sm text-gray-600 mt-1">
-          Watch past panels featuring Deepblue students discussing admissions, academic journeys, and advice for middle and high schoolers.
+          Sign up to attend panels featuring Deepblue students discussing their academic journeys and sharing important lessons for middle and high schoolers.
         </p>
       </section>
 
